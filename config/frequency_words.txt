@@ -1,119 +1,73 @@
-胖东来
-于东来
-
-DeepSeek
-梁文锋
-
-华为
-鸿蒙
-HarmonyOS
-任正非
-
-比亚迪
-王传福
-
-大疆
-DJI
-
-宇树
-王兴兴
-
-智元
-灵犀
-稚晖君
-彭志辉
-
-黑神话
-冯骥
-
-影之刃零
-梁其伟
-
-哪吒
-饺子
-杨宇
-!车
-!餐
-
-三体
-流浪地球
-刘慈欣
-郭帆
-
-申奥
-
-京东
-刘强东
-
-字节
-bytedance
-张一鸣
-
-特斯拉
-马斯克
-
-微软
-Microsoft
-
-英伟达
-NVIDIA
-黄仁勋
-
-AMD
-
-谷歌
-google
-gemini
-deepmind
-
-chatgpt
-openai
-sora
-
-claude
-Anthropic
-
-iphone
-ipad
-mac
-ios
-
-ai
-!gai
+# 组 1：通用 AI 大词（用来兜住所有 AI 相关热点）
+AI
 人工智能
+生成式AI
+大模型
+AI 技术
+AI 行业
+AI 趋势
++发布
++上线
++更新
+!培训
+!教程
+!课程
+!广告
+!招生
+!招聘
 
-自动驾驶
+# 组 2：模型 & 厂商（OpenAI / Google / Anthropic 等）
+ChatGPT
+GPT-4.1
+GPT-4.5
+GPT-5
+OpenAI
+Sora
+Claude
+Anthropic
+Gemini
+DeepMind
+Copilot
+Llama
+LLM
+Midjourney
+Stable Diffusion
+Runway
+Devin
+!破解版
+!破解
+!盗版
+!外挂
 
-机器人
-
-国产
-中国
-
-美国
-日本
-韩国
-
-芯片
-光刻机
-
-科技
-
-核能
-
-水电站
-雅鲁藏布江
-
-新质生产力
-
-月球
-登月
-火星
-宇宙
-飞船
-航空
-虚拟产品
-虚拟资料
+# 组 3：AI 应用 / 工具（侧重你能做项目的方向）
+AI 工具
+AI 应用
+AI 助手
+AI agent
+AI 搜索
+AI 写作
+AI 绘画
+AI 生成图片
+AI 视频
+AI 剪辑
+AI 配音
+AI 编程
+AI 代码
+AI 测试
+AI 客服
+AI 营销
+AI 自动化
+AI SaaS
++产品
++功能
++上线
++发布
++更新
+!资料包
+!考研
+!高考
+!论文代写
+!网课
+# 组 4 数字经济
 数字产品
-数字资料
-虚拟经济
-数字经济
+虚拟产品
